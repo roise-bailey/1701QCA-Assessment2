@@ -5,12 +5,21 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+Spider Lamp
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
+Motion Activated Halloween Spider
+
+https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 2 ###
 *Insert name of project*
 
 *Insert URL to project*
@@ -29,7 +38,7 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+A motor driven mobile that moves under certain conditions
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
@@ -40,6 +49,9 @@ This project is related to mine because *insert reasons here*.
 *Put details here.*
 
 ### Final design concept ###
+
+A mobile shaped device that you can install under a lamp shade were a motion sensor will detect a persons hand going in to turn on the light, lowering spiders using a motor.
+
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
