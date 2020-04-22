@@ -35,12 +35,14 @@ This project is related to mine because *insert reasons here*.
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 https://www.teachwithict.com/pir.html
+
 This source provided a tutorial on how to attach a PIR motion sensor to the micro:bit.
 
 ### Connecting a Servo Motor to a micro:bit ###
 
-https://www.youtube.com/watch?v=qdX86in2YXo
-This video demonstrated how to connect a servo motor to the micro:bit.
+https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
+
+This source demonstrated how to connect a servo motor to the micro:bit.
 
 ## Conceptual progress ##
 
