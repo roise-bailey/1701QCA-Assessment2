@@ -15,7 +15,7 @@ Motion Activated Halloween Spider
 
 https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
 
-![Image](missingimage.png)
+![Image](spider.JPG)
 
 This project is related to mine because *insert reasons here*.
 
