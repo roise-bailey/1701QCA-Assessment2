@@ -31,15 +31,16 @@ This project is related to mine because *insert reasons here*.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-https://www.teachwithict.com/pir.html
-Learning how to attach a PIR motion sensor to the micro:bit
-
-https://www.youtube.com/watch?v=qdX86in2YXo
-Connecting a servo motor to the micor:bit
-
-### *Brief resource name/description* ###
+### Attatching a PIR Motion Sensor to a micro:bit ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://www.teachwithict.com/pir.html
+This source provided a tutorial on how to attach a PIR motion sensor to the micro:bit.
+
+### Connecting a Servo Motor to a micro:bit ###
+
+https://www.youtube.com/watch?v=qdX86in2YXo
+This video demonstrated how to connect a servo motor to the micro:bit.
 
 ## Conceptual progress ##
 
