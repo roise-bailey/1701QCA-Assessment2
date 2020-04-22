@@ -31,6 +31,12 @@ This project is related to mine because *insert reasons here*.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
+https://www.teachwithict.com/pir.html
+Learning how to attach a PIR motion sensor to the micro:bit
+
+https://www.youtube.com/watch?v=qdX86in2YXo
+Connecting a servo motor to the micor:bit
+
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
@@ -44,6 +50,8 @@ A motor driven mobile that moves under certain conditions
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+
+Micro:bit baby mobile
 
 ### Design concept 2 ###
 *Put details here.*
@@ -68,7 +76,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](spidersketch.JPG)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
