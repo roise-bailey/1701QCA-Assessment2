@@ -53,6 +53,7 @@ A motor driven mobile that moves under certain conditions
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 Micro:bit baby mobile
+![Image](mobilesketch.JPG)
 
 ### Design concept 2 ###
 *Put details here.*
@@ -78,6 +79,9 @@ Ensure you include comments about the choices you've made along the way.*
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](spidersketch.JPG)
+
+Initial test of the motor included in the Kitronik Inventor's Kit to see if the motor was strong enough to support and move a string. This attempt was unsuccessful- leading to the purchase of the servo motor.
+![Image](motortest1.JPG)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
