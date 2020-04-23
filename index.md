@@ -57,19 +57,34 @@ This source demonstrated how to connect a servo motor to the micro:bit.
 A motor driven mobile that moves under certain conditions
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
-
-Micro:bit baby mobile
+Micro:bit baby mobile where the base spins and individual strings move up and down as the moter spins.
 ![Image](mobilesketch.JPG)
+
+Pros
+- 
+
+Cons
+- 
 
 ### Design concept 2 ###
 A mobile shaped device that you can install under a lamp shade were a motion sensor will detect a persons hand going in to turn on the light, lowering spiders using a motor.
 ![Image](spidersketch.JPG)
 
-### Final design concept ###
+Pros
+- 
 
+Cons
+- 
+
+### Final design concept ###
+A mobile of a single spider where when the motion sensor senses movement, the motor turns, pulling individial strings that move the spiders legs while playing a song.
+
+Pros
+- Construction of the project is achievable with elements that are still challenging.
+
+Cons
+- Need to purchase additional parts (Servo Motor and PIR Motion Sensor).
 
 
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
@@ -77,7 +92,7 @@ A mobile shaped device that you can install under a lamp shade were a motion sen
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](interaction.png)
+![Image](interaction.JPG)
 
 ## Physical experimentation documentation ##
 
@@ -92,13 +107,17 @@ Ensure you include comments about the choices you've made along the way.*
 
 Initial test of the motor included in the Kitronik Inventor's Kit to see if the motor was strong enough to support and move a string. This attempt was unsuccessful- leading to the purchase of the servo motor.
 ![Image](motortest1.JPG)
+![Image](testmotor1.JPG)
 
 Testing the PIR Motion Sensor
-
+![Image](pirmotiontest.JPG)
+![Image](testmotion.JPG)
 The tests of the PIR Motion Sensor were unsuccessful, most likely due to a lack of power. This is something that will have to be improved before the final project.
 
 
 Testing the servo motor
+![Image](servotest.JPG)
+![Image](testservo.JPG)
 
 Testing the servo motor with additional weight
 
