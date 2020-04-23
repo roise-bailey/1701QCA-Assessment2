@@ -20,11 +20,11 @@ https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
 This project is related to mine because *insert reasons here*.
 
 ### Related project 2 ###
-*Insert name of project*
+Spider Marionette
 
-*Insert URL to project*
+https://blog.makeitfuncrafts.com/2016/10/22/spider-marionette/
 
-![Image](missingimage.png)
+![Image](marionette.JPG)
 
 This project is related to mine because *insert reasons here*.
 
@@ -58,11 +58,12 @@ Micro:bit baby mobile
 ![Image](mobilesketch.JPG)
 
 ### Design concept 2 ###
-*Put details here.*
+A mobile shaped device that you can install under a lamp shade were a motion sensor will detect a persons hand going in to turn on the light, lowering spiders using a motor.
+![Image](spidersketch.JPG)
 
 ### Final design concept ###
 
-A mobile shaped device that you can install under a lamp shade were a motion sensor will detect a persons hand going in to turn on the light, lowering spiders using a motor.
+
 
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
@@ -80,7 +81,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](spidersketch.JPG)
+![Image](spidermobile.JPG)
 
 Initial test of the motor included in the Kitronik Inventor's Kit to see if the motor was strong enough to support and move a string. This attempt was unsuccessful- leading to the purchase of the servo motor.
 ![Image](motortest1.JPG)
