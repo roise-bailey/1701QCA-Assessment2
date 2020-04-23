@@ -13,7 +13,7 @@ Motion Activated Halloween Spider
 
 https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
 
-![Image](spider.JPG)
+![Image](spiderproj.JPG)
 
 This project is related to mine with the similar use of technology and concept of using a moving spider to scare a person
 
