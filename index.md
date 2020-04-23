@@ -136,3 +136,20 @@ Over the working time for this assignment, my concept has changed numerous times
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+- Get the PIR Motion Sensor to work 
+    - Test with a different power source
+-	Build a prototype spider for testing
+    - Purchase parts to build spider
+-	Test the use of cogs to move the strings connected to spiders’ legs
+-	Test all the elements together
+    - Buzzer
+    - Servo Motor
+    - PIR Motion Sensor
+-	Add LED’s if possible
+-	Build final base and spider
+    - Access materials
+      - Hot glue gun, thin wood for base
+-	Final testing and minor changes
+-	Film and Edit Final Video
+
