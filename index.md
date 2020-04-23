@@ -79,6 +79,7 @@ Cons
 
 ### Final design concept ###
 A mobile of a single spider where when the motion sensor senses movement, the motor turns, pulling individial strings that move the spiders legs while playing a song.
+![Image](spidermobile.JPG)
 
 Pros
 - Construction of the project is achievable with elements that are still challenging.
@@ -102,7 +103,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](spidermobile.JPG)
+![Image](spider.JPG)
 
 Initial test of the motor included in the Kitronik Inventor's Kit to see if the motor was strong enough to support and move a string. This attempt was unsuccessful- leading to the purchase of the servo motor.
 ![Image](motortest1.JPG)
