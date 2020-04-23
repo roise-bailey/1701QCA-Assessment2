@@ -44,6 +44,13 @@ https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
 
 This source demonstrated how to connect a servo motor to the micro:bit.
 
+### Marionette: From Traditional Manipulation to Robotic Manipulation ###
+
+https://link.springer.com/chapter/10.1007%2F1-4020-2204-2_10
+
+This source demonstrated how to connect a servo motor to the micro:bit.
+
+
 ## Conceptual progress ##
 
 ### Design intent ###
@@ -70,7 +77,7 @@ A mobile shaped device that you can install under a lamp shade were a motion sen
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](interaction.png)
 
 ## Physical experimentation documentation ##
 
@@ -85,6 +92,20 @@ Ensure you include comments about the choices you've made along the way.*
 
 Initial test of the motor included in the Kitronik Inventor's Kit to see if the motor was strong enough to support and move a string. This attempt was unsuccessful- leading to the purchase of the servo motor.
 ![Image](motortest1.JPG)
+
+Testing the PIR Motion Sensor
+
+The tests of the PIR Motion Sensor were unsuccessful, most likely due to a lack of power. This is something that will have to be improved before the final project.
+
+
+Testing the servo motor
+
+Testing the servo motor with additional weight
+
+Testing the motor and button to move one string
+
+Testing the motor with multiple string connected to one object
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
