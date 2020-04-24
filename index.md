@@ -153,7 +153,9 @@ Testing the motor and button to move one string
 
 Testing the motor with multiple strings connected to one object
 
-Video of all four servo motor tests:
+Video of servo motor tests:
+
+https://www.youtube.com/watch?v=ZHziciWTWhk&feature=youtu.be
 
 
 
