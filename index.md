@@ -26,6 +26,41 @@ https://blog.makeitfuncrafts.com/2016/10/22/spider-marionette/
 
 This project is related to mine due to the same concept of using a spider and marionette technology to control it.
 
+### Related project 3 ###
+Servo Motor String Acceleration
+
+https://www.youtube.com/watch?v=C1SBujD_awo
+
+![Image](acceleration.JPG)
+
+This project is related to mine due to the technology (a servo motor) being used to raise and lower a weighted string.
+
+### Related project 4 ###
+Arduino super mario brothers room greeter
+
+https://www.youtube.com/watch?v=cofqYukXTow&feature=emb_title
+
+![Image](pirmushroom.JPG)
+
+This project is related to mine with the use of similar technology, and concept. A PIR Motion Sensor is used to monitor movement in a room, setting off a buzzer when movement is detected. The project is also powered by Arduino which is similar technology to the micro:bit.
+
+### Related project 5 ###
+Motorized Marionette Puppet
+
+https://www.researchgate.net/figure/The-motorized-marionette-and-its-model-The-marionette-is-about-60cm-tall-The-shoulder_fig1_4041647
+
+![Image](motorpuppet.JPG)
+
+This project is related to mine through similar technology and concept being a puppet like shape with limbs being controlled using a motor. Though this project is more advanced than mine will be, the idea and base technology behind it is of a similar nature to what mine will be.
+
+### Related project 6 ###
+Motion and Sound Activated Babt Mobile
+
+https://www.littlebits.cc/projects/sound-motion-activated-baby-mobile
+
+![Image](baby.JPG)
+
+This project is related to mine
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
