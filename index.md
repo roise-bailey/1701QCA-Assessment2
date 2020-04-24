@@ -119,6 +119,7 @@ A mobile of a single spider where when the motion sensor senses movement, the mo
 Pros
 - Construction of the project is achievable with elements that are still challenging.
 - Sticks to the design intent of a motor controlled mobile, while adding in the idea of using it as a halloween decoration.
+- Room to improve and add elements
 
 Cons
 - Need to purchase additional parts (Servo Motor and PIR Motion Sensor).
