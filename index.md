@@ -124,19 +124,11 @@ Cons
 - Need to purchase additional parts (Servo Motor and PIR Motion Sensor).
 
 
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
 ![Image](interaction.JPG)
 
 ## Physical experimentation documentation ##
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](spider.JPG)
 
@@ -172,7 +164,6 @@ Over the working time for this assignment, my concept has changed numerous times
 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
 - Get the PIR Motion Sensor to work 
     - Test with a different power source
