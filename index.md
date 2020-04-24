@@ -136,6 +136,10 @@ Initial test of the motor included in the Kitronik Inventor's Kit to see if the 
 ![Image](motortest1.JPG)
 ![Image](testmotor1.JPG)
 
+Video of test:
+
+https://www.youtube.com/watch?v=Oh5N0yDEmcg&feature=youtu.be 
+
 Testing the PIR Motion Sensor
 ![Image](pirmotiontest.JPG)
 ![Image](testmotion.JPG)
