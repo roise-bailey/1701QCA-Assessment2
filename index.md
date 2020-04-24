@@ -6,7 +6,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Dancing Spider Halloween Mobile
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 Motion Activated Halloween Spider
@@ -15,7 +14,7 @@ https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
 
 ![Image](spiderproj.JPG)
 
-This project is related to mine with the similar use of technology and concept of using a moving spider to scare a person
+This project is related to mine with the similar use of technology and concept of using a moving spider to scare a person.
 
 ### Related project 2 ###
 Spider Marionette
@@ -54,13 +53,13 @@ https://www.researchgate.net/figure/The-motorized-marionette-and-its-model-The-m
 This project is related to mine through similar technology and concept being a puppet like shape with limbs being controlled using a motor. Though this project is more advanced than mine will be, the idea and base technology behind it is of a similar nature to what mine will be.
 
 ### Related project 6 ###
-Motion and Sound Activated Babt Mobile
+Motion and Sound Activated Baby Mobile
 
 https://www.littlebits.cc/projects/sound-motion-activated-baby-mobile
 
 ![Image](baby.JPG)
 
-This project is related to mine
+This project is related to mine through similar concept being a mobile that is activated through motion. While this mabile is made specifically for a baby, my mobile has multiple uses such as a halloween decoration.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
