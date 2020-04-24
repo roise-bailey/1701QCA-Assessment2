@@ -1,7 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
 Dancing Spider Halloween Mobile
 
@@ -62,7 +60,6 @@ https://www.littlebits.cc/projects/sound-motion-activated-baby-mobile
 This project is related to mine through similar concept being a mobile that is activated through motion. While this mabile is made specifically for a baby, my mobile has multiple uses such as a halloween decoration.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### Attatching a PIR Motion Sensor to a micro:bit ###
 
