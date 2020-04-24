@@ -14,7 +14,7 @@ https://www.instructables.com/id/Motion-Activated-Halloween-Spider/
 
 ![Image](spiderproj.JPG)
 
-This project is related to mine with the similar use of technology and concept of using a moving spider to scare a person.
+This project is related to mine with the similar use of technology and concept of using a moving spider to scare a person. The spider is controlled using micro controller technology and is powered by a motor, similar to my project.
 
 ### Related project 2 ###
 Spider Marionette
@@ -23,7 +23,7 @@ https://blog.makeitfuncrafts.com/2016/10/22/spider-marionette/
 
 ![Image](marionette.JPG)
 
-This project is related to mine due to the same concept of using a spider and marionette technology to control it.
+This project is related to mine due to the same concept of using a spider and marionette technology to control the movement of it. There will also be similarities in the materials used to build the actual spider, though ideally my spider will look more professional.
 
 ### Related project 3 ###
 Servo Motor String Acceleration
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=C1SBujD_awo
 
 ![Image](acceleration.JPG)
 
-This project is related to mine due to the technology (a servo motor) being used to raise and lower a weighted string.
+This project is related to mine due to the technology (a servo motor) being used to raise and lower a weighted string. The technology behind this project can be altered to be useful in my mobile, this is something that I will attempt before the final project is due.
 
 ### Related project 4 ###
 Arduino super mario brothers room greeter
@@ -105,7 +105,8 @@ A mobile shaped device that you can install under a lamp shade were a motion sen
 ![Image](spidersketch.JPG)
 
 Pros
-- The concept will achievable to finish by the end of the course.
+- The concept will be achievable to finish by the end of the course.
+- Won't be too hard to build the mini spiders.
 
 Cons
 - Difficult it neatly build the mobile under a lamp shade.
@@ -121,6 +122,7 @@ Pros
 
 Cons
 - Need to purchase additional parts (Servo Motor and PIR Motion Sensor).
+- Will be difficult to get the final project to look professional.
 
 
 
