@@ -158,9 +158,11 @@ Testing the servo motor
 Testing the servo motor with additional weight
 
 Testing the motor and button to move one string
-![Image](cup1.MOV)
 
-Testing the motor with multiple string connected to one object
+Testing the motor with multiple strings connected to one object
+
+Video of all four servo motor tests:
+
 
 
 ## Design process discussion ##
